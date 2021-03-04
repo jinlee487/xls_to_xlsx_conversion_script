@@ -23,3 +23,6 @@ You should download Jupyter Notebook, open the config file and edit the director
 
 After: 
 run the program
+
+
+Author: <a href="https://github.com/jinlee487">JWL</a>
