@@ -7,7 +7,7 @@ At my work, one of my daily office task was to convert xls files to xlsx for oth
 
 ### 📑 How to Install
 
-The main idea is to simplify the process of converting xls files to xlsx.
+The main idea is to simplify the process of converting xls files to xlsx files.
 
 Before:
 You should download Jupyter Notebook, open the config file and edit the directory to the your specified directory:
