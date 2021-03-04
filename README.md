@@ -3,7 +3,7 @@
 
 Hello World! 
 
-At my work, one of my daily office task was to convert xls files to xlsx for other uses. I was so fed up with the menial task of opening up xls files just to save it as a new xlsx file on Excel. So I wrote up a Python script to simplify the process. 
+At my work, one of my daily office task was to convert xls files to xlsx for other uses. I was so fed up with the menial task of opening up xls files just to save it as a new xlsx file on Excel, that I wrote up a Python script to simplify the process. 
 
 ### 📑 How to Install
 
